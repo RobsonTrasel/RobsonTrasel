@@ -20,7 +20,9 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RobsonTrasel)](https://github.com/RobsonTrasel)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uniarobson/)](https://www.linkedin.com/in/uniarobson/)
+
+[![RobsonTrasel GitHub stats](https://github-readme-stats.vercel.app/api?username=RobsonTrasel)](https://github.com/RobsonTrasel/github-readme-stats
 
 - Thanks for visiting.
 
