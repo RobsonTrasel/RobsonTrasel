@@ -22,7 +22,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uniarobson/)](https://www.linkedin.com/in/uniarobson/)
 
-[![RobsonTrasel GitHub stats](https://github-readme-stats.vercel.app/api?username=RobsonTrasel)](https://github.com/RobsonTrasel/github-readme-stats
+[![RobsonTrasel GitHub stats](https://github-readme-stats.vercel.app/api?username=RobsonTrasel)](https://github.com/RobsonTrasel/github-readme-stats)
 
 - Thanks for visiting.
 
